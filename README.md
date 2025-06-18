@@ -16,7 +16,7 @@ Aunque por ahora es un avance funcional, la intención es extenderlo y mejorarlo
 
 ### Explicación breve del codigo
 
-WikiScraper
+**WikiScraper**
 
 Se encarga de extraer párrafos relevantes de páginas tipo Wikipedia.
 
@@ -28,7 +28,7 @@ Se encarga de extraer párrafos relevantes de páginas tipo Wikipedia.
 
 * Guarda los resultados en el archivo wiki_resultados.txt.
 
-RetailScraper
+**RetailScraper**
 
 Busca productos en sitios de comercio electrónico (ej. MercadoLibre).
 
@@ -38,7 +38,7 @@ Busca productos en sitios de comercio electrónico (ej. MercadoLibre).
 
 * Guarda los productos encontrados en el archivo productos.txt.
 
-ScrapingApp
+**ScrapingApp**
 
 Es la clase principal que controla la ejecución del programa.
 
